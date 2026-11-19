@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Maxwell 👋
 
-<!--
-**MaxwellGonie/MaxwellGonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems & Technology student at CSU San Bernardino (Cybersecurity concentration) and Army veteran, working toward networking or cyber roles
 
-Here are some ideas to get you started:
+### 🔧 Currently working on
+- **Active Directory Helpdesk Lab** – Windows Server domain controller, DNS, and domain joined Windows 11 clients in VMware Workstation (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Certifications
+- CompTIA Security+ (in progress)
+- Cisco CCNA (planned 2027)
+
+### 🛠️ Tools and skills
+Windows Server · Active Directory · DNS · VMware Workstation · Windows 11 · Networking fundamentals · SQL
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/maxwell-gonie-2368032ba/)
